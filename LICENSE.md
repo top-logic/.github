@@ -1,6 +1,6 @@
 # TopLogic License
 
-TopLogic - the automated application engine is dual licensed. You may either use, distribute, or modify TopLogic in accordance with the terms of the GNU Affero General Public License ("APGL"), or you may buy a commercial license for developing, installing, and operating a single application based on TopLogic from Business Operation Systems GmbH ("BOS").
+TopLogic - the automated application engine ("TopLogic") is dual licensed. You may either use, distribute, or modify TopLogic in accordance with the terms of the GNU Affero General Public License ("APGL"), or you may buy a commercial license for developing, installing, and operating a single application based on TopLogic from Business Operation Systems GmbH ("BOS").
 
 ## Using the APGL version of TopLogic
 
