@@ -4,7 +4,15 @@ TopLogic - the automated application engine is dual licensed. You may either use
 
 ## Using the APGL version of TopLogic
 
-When choosing to use TopLogic in accordance with the terms of the GNU Affero General Public License, you must make available the application you develop base on TopLogic to all of its customers and users under the same GNU Affero General Public License. Since TopLogic is a model-based no-code development platform, this license should apply not only to the source code the engine and your additional components were built from, but also to all configuration files that are stored either in the server's file system or the application's database required to provide the functionality and look and feel of your application. Such Those configuration files are but not limited to model definitions, application layout definitions, internationalization resources, theme definitions, style-sheets and images.
+When choosing to use TopLogic in accordance with the terms of the GNU Affero General Public License, you must make available the application you develop base on TopLogic to all of its customers and users under the same GNU Affero General Public License. 
+
+### Clarification of the license scope
+
+Since TopLogic is a model-based no-code development platform, this license should apply not only to the source code the engine and your additional components were built from, but also to all configuration files that are stored either in the server's file system or the application's database required to provide the functionality and look and feel of your application. Those configuration files are but not limited to model definitions, application layout definitions, internationalization resources, theme definitions, style-sheets and images.
+
+### Additional library linking permission
+
+In addition to the terms of the AGPL as shown below, BOS makes the following exception from the requirements of the AGPL: Notwithstanding any other provision of this License, you have permission to link or combine any covered work with any library that is within the dependencies of the unmodified original work into a single combined work, and to convey the resulting work. The terms of this License will continue to apply to the part which is the covered work, but the additional library which it is combined will remain governed by its original license.
 
 ## Using a commercially licensed version of TopLogic
 
