@@ -8,7 +8,7 @@ When choosing to use TopLogic in accordance with the terms of the GNU Affero Gen
 
 ### Clarification of the license scope
 
-Since TopLogic is a model-based no-code development platform, this license should apply not only to the source code the engine and your additional components were built from, but also to all configuration files that are stored either in the server's file system or the application's database required to provide the functionality and look and feel of your application. Those configuration files are but not limited to model definitions, application layout definitions, internationalization resources, theme definitions, style-sheets and images.
+Since TopLogic is a model-based no-code development platform, this license does not only apply to the source code the engine and your additional components were built from, but also to all configuration files that are stored either in the server's file system or the application's database required to provide the functionality and look and feel of your application. Those configuration files are but not limited to model definitions, application layout definitions, internationalization resources, theme definitions, style-sheets and images.
 
 ### Additional library linking permission
 
@@ -16,7 +16,7 @@ In addition to the terms of the AGPL as shown below, BOS makes the following exc
 
 ## Using a commercially licensed version of TopLogic
 
-If you are not willing to make available the source of your application available to your customers and application users, you can choose to use a commercially licensed version of TopLogic by buing a license key from BOS that allows you to operate a single instance of a TopLogic based application either by yourself or on behalf of yor customer.
+If you want to keep your application source private, BOS offers you a propietary license, that releases you from disclosing your application source to customers and application users. In that scenario, a license is required for operating each single instance of a TopLogic based application either by yourself or on behalf of yor customer. Please contact BOS for purchasing a license key for your TopLogic installation.
 
 # GNU AFFERO GENERAL PUBLIC LICENSE
 
