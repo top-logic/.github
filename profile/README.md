@@ -16,7 +16,15 @@ For details see the [TopLogic Contributor License Agreement](/CLA.md).
 
 ## Professional Services
 
-TODO
+[Business Operation Systems GmbH](https://top-logic.com) provides professional services for TopLogic open source. TopLogic engineers are experienced over several years in industrial TopLogic projects. To make your TopLogic open source project a success, we provide various types of services:
+
+* Training and coaching
+* IT architecture consulting
+* Solution consulting
+* Solution reviews
+* Technical support
+
+For subscribing go to TODO.
 
 ## Proprietary licensing
 
