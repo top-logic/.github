@@ -4,9 +4,7 @@ This is the home of the open-source version of _TopLogic - the automated applica
 
 ## License
 
-TopLogic is distributed unter the terms of the AGPL. This means that all applications you configure based on the open-source version of TopLogic must be made available under the terms of the AGPL to all of its users. For proprietary licensing, see below.
-
-For details see the [TopLogic License](/LICENSE.md).
+TopLogic is dual-licensed. You can use TopLogic either unter the terms of the [GNU Affero General Public License 3.0](LICENSES/AGPL-3.0-only.md) (AGPL-3.0) or the proprietary [TopLogic License 1.0](/LICENSES/LicenseRef-BOS-TopLogic-1.0.md) (BOS-TopLogic-1.0). Using the AGPL open-source version requires that you make available all applications you configure under the terms of the AGPL to all of their users. For proprietary licensing details see [TopLogic License 1.0](/LICENSES/LicenseRef-BOS-TopLogic-1.0.md).
 
 ## Contributing
 
@@ -25,7 +23,3 @@ For details see the [TopLogic Contributor License Agreement](/CLA.md).
 * Technical support
 
 For subscribing go to TODO.
-
-## Proprietary licensing
-
-TODO
