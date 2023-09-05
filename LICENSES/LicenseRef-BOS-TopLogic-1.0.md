@@ -2,8 +2,8 @@
 
 ## 1. Vertragsgegenstand
 1.  Diese Lizenzbedingungen regeln die Einräumung von
-    Nutzungsrechten für die Software „TopLogic - the automated
-    application engine“ (nachfolgend als „TopLogic“ oder „Software“
+    Nutzungsrechten für die Software "TopLogic - the automated
+    application engine" (nachfolgend als "TopLogic" oder "Software"
     bezeichnet) und die dabei zu beachtenden Lizenzpflichten.
 1.  TopLogic ist ein Softwareentwicklungssystem für Web-Anwendungen.
     Die Beschreibung der Funktionalitäten und damit der
@@ -25,7 +25,7 @@
     müssen.
 2.  Die bestimmungsgemäße Benutzung von TopLogic besteht in der
     Entwicklung von Anwendungen.
-3.  Diese Nutzung wird als „Development Mode“ bezeichnet und die
+3.  Diese Nutzung wird als "Development Mode" bezeichnet und die
     dafür erforderlichen Bearbeitungs- und
     Vervielfältigungshandlungen sind lizenzgebührenfrei gestattet,
     wobei diese nicht-ausschließlichen Nutzungs­rechte weltweit und
@@ -40,11 +40,11 @@
 
     Lässt der Lizenznehmer eine mit TopLogic entwickelte Anwendung außerhalb
     der bloßen Entwicklung und den Test dafür ablaufen, wird diese Nutzung
-    als „Production Mode“ bezeichnet und ist lizenzgebührenpflichtig. Dies
+    als "Production Mode" bezeichnet und ist lizenzgebührenpflichtig. Dies
     betrifft insbesondere auch das Ablauflassen der Software, um die
     Funktionalität der Anwendung zu verwenden.
 
-4.  Die Business Operation Systems GmbH (nachfolgend als BOS“
+4.  Die Business Operation Systems GmbH (nachfolgend als "BOS"
     bezeichnet) räumt dem Lizenznehmer mit Abschluss dieses
     Lizenzvertrages weiterhin das weltweite und zeitlich beschränkte
     nicht-ausschließliche Nutzungsrecht ein, die Software zu
@@ -53,8 +53,8 @@
     weiterzuverbreiten und/oder Dritten zum Download zur Verfügung
     zu stellen.
 
-    Diese Dritten dürfen TopLogic nur im „Development Mode“ benutzen.
-    Möchten Dritte TopLogic im „Production Mode“ nutzen, müssen sie mit BOS
+    Diese Dritten dürfen TopLogic nur im "Development Mode" benutzen.
+    Möchten Dritte TopLogic im "Production Mode" nutzen, müssen sie mit BOS
     einen entsprechenden Lizenzvertrag abschließen. Soweit Programmcode
     (z.B. Javascript) von TopLogic bei der bestimmungsgemäßen Benutzung der
     damit entwickelten Anwendung an den Browser eines Dritten übertragen
@@ -100,18 +100,18 @@
 ## 3. Lizenzkeys
 
 1.  BOS verwendet zur Überprüfung der ordnungsgemäßen Lizenzierung
-    im „Production Mode“ technische Programmschutzmechanismen in
+    im "Production Mode" technische Programmschutzmechanismen in
     Form von Lizenzkeys. Die Entfernung des
     Programmschutzmechanismus ist untersagt. Die Überprüfung eines
     Lizenzkeys erfolgt durch Übermittlung der IP-Adresse des
     Lizenznehmers.
 2.  Der Lizenznehmer erhält von BOS einen Lizenzkey für die Nutzung
-    im „Production Mode“, wenn der Lizenznehmer die entsprechende
+    im "Production Mode", wenn der Lizenznehmer die entsprechende
     Lizenzgebühr an BOS gezahlt hat. Sofern der Lizenznehmer die
-    Nutzung der Software für mehrere Instanzen („Stages“) lizenziert
+    Nutzung der Software für mehrere Instanzen ("Stages") lizenziert
     hat, erhält er die dafür erforderliche Zahl an Lizenzkeys.
 3.  Nach Ablauf der vereinbarten Dauer des Nutzungsrechts für den
-    „Production Mode“ kann die Software nicht gestartet werden, ohne
+    "Production Mode" kann die Software nicht gestartet werden, ohne
     dass ein neuer Lizenzkey eingegeben wird.
 
 ## 4. Überlassung der Software
@@ -124,7 +124,7 @@ Lizenznehmers.
 
 Der Lizenznehmer ist verpflichtet, die vertraglich vereinbarte
 Lizenzgebühr an BOS zu zahlen. Die Lizenzgebühr berechnet sich anhand
-der Anzahl der Installationen („Stages“) für den „Production Mode“ und
+der Anzahl der Installationen ("Stages") für den "Production Mode" und
 wird in dem Angebot von BOS ausgewiesen.
 
 ## 6. Updates und Upgrades
