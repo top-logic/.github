@@ -42,4 +42,4 @@ Der Lizenznehmer ist berechtigt, Updates und Upgrades von TopLogic in dem in Zif
    DE Frankfurt am Main.
 5. Anwendbares Recht ist das Recht der Bundesrepublik Deutschland mit der Ausnahme des UN-Kaufrechts und der Regelungen des Kollisionsrechts.
 
-Stand, September 2023
+Version 1.0, Stand, September 2023
