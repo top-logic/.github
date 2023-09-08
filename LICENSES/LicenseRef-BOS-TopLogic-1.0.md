@@ -1,192 +1,45 @@
-# Lizenzbedingungen für die Software "TopLogic – the automated application engine"
+# License Conditions for the software "TopLogic - the automated application engine"
 
-## 1. Vertragsgegenstand
-1.  Diese Lizenzbedingungen regeln die Einräumung von
-    Nutzungsrechten für die Software "TopLogic - the automated
-    application engine" (nachfolgend als "TopLogic" oder "Software"
-    bezeichnet) und die dabei zu beachtenden Lizenzpflichten.
-1.  TopLogic ist ein Softwareentwicklungssystem für Web-Anwendungen.
-    Die Beschreibung der Funktionalitäten und damit der
-    Leistungsumfang ergibt sich aus der Dokumentation, die unter
-    [www.top-logic.com](https://www.top-logic.com/) abrufbar ist.
-    Die Systemvoraussetzungen sind in der Dokumentation enthalten
-    und Bestandteil dieses Lizenzvertrags.
+## 1. Subject of the contract
+1. These license terms govern the grant of rights to use the software "TopLogic - the automated application engine" (hereinafter referred to as "TopLogic" or "Software") and the license conditions to be complied with.
+2. TopLogic is a software development system for web applications. The description of the functionalities and thus the scope of services is provided in the documentation, which is available at [www.top-logic.com](https://www.top-logic.com/). The system requirements are contained in the documentation and are an integral part of this license agreement.
 
-## 2. Nutzungsrechte
+## 2. Rights of use
+1. TopLogic is dual licensed. Licensee may use the software either under the license terms of the [GNU Affero General Public License, Version 3](https://www.gnu.org/licenses/agpl-3.0-standalone.html) or under the proprietary license conditions set forth below. Use under the AGPL-3.0 results in the applications developed with it must also be licensed under the AGPL-3.0 in the case of redistribution and when used in a SaaS model.
+2. The intended use of TopLogic is the development of applications. This use is referred to as "Development Mode" and the necessary acts of modification and reproduction are permitted free of license fees. The necessary modification is limited to the integration of TopLogic into the application to be developed. The source code provided is for documentation purposes only. Licensee is not permitted to modify it, or to translate the source code into alternative binary files and use them for application development. 
+3. If Licensee runs an application developed with TopLogic outside of mere development and testing thereof, this use is referred to as "Production Mode" and is subject to license fees. This applies in particular to the act of running the software in order to use the functionality of the application. The permission to use in "Production Mode" is limited in time. The limitation in time shall depend on the license period agreed individually with Business Operation Systems GmbH, Dornhofstraße 18, 63263 Neu-Isenburg, Germany (hereinafter referred to as "BOS") and shall be technically verified by the use of license keys in accordance with Section 3.
+4. Upon acceptance of this license agreement, BOS grants Licensee the worldwide and time-limited non-exclusive right to reproduce the Software and to redistribute it to third parties as a component of applications developed with TopLogic under these license conditions and/or to make it available to third parties for download. The limitation in time is dependent on the license period agreed individually with BOS and is technically verified by the use of license keys in accordance with Section 3. Such third parties may only use TopLogic in "Development Mode". If third parties wish to use TopLogic in "Production Mode", they must enter into a corresponding license agreement with BOS. Insofar as program code (e.g. Javascript) from TopLogic is transferred to a third party's browser during the intended use of the application developed with it, or functionality is used by end users, the associated making of the software available to the public is permitted for the duration of the license.
+5. Affiliated companies within the meaning of Section 15 of the German Stock Corporation Act are entitled to use TopLogic to the same extent as Licensee. Licensee is liable that Affiliated Companies shall pay royalties to the extent owed under this Agreement and shall comply with the terms of the License in the same manner as the Licensee.
+6. TopLogic contains components that are licensed as open source software. According to the Open Source Definition of the [Open Source Initiative](https://opensource.org/osd), open source software is software that is licensed by the respective rights holders to anyone for comprehensive royalty-free use and for which the source code is available. A list of the concerned software components and the respective applicable license terms as well as further information (e.g. on obtaining the source code) shall be provided to Licensee together with TopLogic. The open source licenses for the respective open source components shall take precedence over these license terms. As long as Licensee uses the open source components solely internally, Licensee shall have no license obligations to the right-holders of such open source components. However, Licensee may additionally acquire a non-exclusive right to the open source software from the respective rights holders under the terms and conditions provided for in the respective applicable open source licenses. Any use of open source software on the basis of these open source licenses and outside the use provided for in TopLogic shall be at Licensee's own risk and shall not be subject to the contractual relationship with BOS. The warranty for defects in the software that are based on a modification of open source software is excluded. Licensee shall bear the burden of proof that a defect in TopLogic would have occurred even if the included open source software had not been modified.
 
-1.  TopLogic ist dual lizenziert. Der Lizenznehmer kann die Software
-    entweder unter den Lizenzbedingungen der GNU Affero General
-    Public License, Version 3
-    (<https://www.gnu.org/licenses/agpl-3.0-standalone.html>) nutzen
-    oder unter den nachfolgend geregelten proprietären
-    Lizenzbedingungen. Eine Nutzung unter der AGPL-3.0 führt dazu,
-    dass die damit entwickelte Anwendungen bei der Weitergabe und
-    einem SaaS ebenfalls unter der AGPL-3.0 lizenziert werden
-    müssen.
-2.  Die bestimmungsgemäße Benutzung von TopLogic besteht in der
-    Entwicklung von Anwendungen.
-3.  Diese Nutzung wird als "Development Mode" bezeichnet und die
-    dafür erforderlichen Bearbeitungs- und
-    Vervielfältigungshandlungen sind lizenzgebührenfrei gestattet,
-    wobei diese nicht-ausschließlichen Nutzungs­rechte weltweit und
-    zeitlich beschränkt für die Laufzeit dieses Vertrages
-    ein­geräumt werden. Die erforderliche Bearbeitung beschränkt
-    sich auf die unveränderte Einbindung von TopLogic in die zu
-    entwickelnde Anwendung. Der zur Ver­fügung gestellte Quellcode
-    dient ausschließlich zu Dokumentations­zwecken. Dem Lizenznehmer
-    ist weder gestattet diesen zu modifizieren, noch den Quellcode
-    zu alternativen Binärdateien zu übersetzen und diese für die
-    Anwendungsentwicklung zu nutzen.
+## 3. License keys
+1. BOS uses technical program protection mechanisms in the form of license keys to verify proper licensing in "Production Mode". The removal of the program protection mechanism is prohibited. The verification of a license key is done by transmitting the IP address of the Licensee.
+2. The Licensee shall receive a license key from BOS for use in "Production Mode" after payment of the corresponding license fee to BOS by the Licensee. If Licensee has licensed the use of the Software for several instances ("Stages"), Licensee shall receive the required number of License Keys.
+3. After expiration of the agreed duration of the right of use for the "Production Mode", the software cannot be started without entering a new license key.
 
-    Lässt der Lizenznehmer eine mit TopLogic entwickelte Anwendung außerhalb
-    der bloßen Entwicklung und den Test dafür ablaufen, wird diese Nutzung
-    als "Production Mode" bezeichnet und ist lizenzgebührenpflichtig. Dies
-    betrifft insbesondere auch das Ablauflassen der Software, um die
-    Funktionalität der Anwendung zu verwenden.
+## 4. Delivery of the software
+The Software will be delivered to Licensee electronically, either by a download option or by upload to a server of Licensee.
 
-4.  Die Business Operation Systems GmbH (nachfolgend als "BOS"
-    bezeichnet) räumt dem Lizenznehmer mit Abschluss dieses
-    Lizenzvertrages weiterhin das weltweite und zeitlich beschränkte
-    nicht-ausschließliche Nutzungsrecht ein, die Software zu
-    vervielfältigen und als Bestandteil von mit TopLogic
-    entwickelten Anwendungen an Dritte unter derselben Lizenz
-    weiterzuverbreiten und/oder Dritten zum Download zur Verfügung
-    zu stellen.
+## 5. Royalties
+Licensee shall pay the contractually agreed license fee to BOS. The license fee is calculated on the basis of the number of installations ("Stages") for the "Production Mode" and is stated in the offer of BOS.
 
-    Diese Dritten dürfen TopLogic nur im "Development Mode" benutzen.
-    Möchten Dritte TopLogic im "Production Mode" nutzen, müssen sie mit BOS
-    einen entsprechenden Lizenzvertrag abschließen. Soweit Programmcode
-    (z.B. Javascript) von TopLogic bei der bestimmungsgemäßen Benutzung der
-    damit entwickelten Anwendung an den Browser eines Dritten übertragen
-    wird oder Funktionalität durch Endnutzer benutzt wird, ist die damit
-    verbundene öffentliche Zugänglichmachung der Software für die Dauer der
-    Lizenz gestattet.
+## 6. Updates and Upgrades
+Licensee shall be entitled to use updates and upgrades from TopLogic to the extent outlined in Section 2, provided that such updates or upgrades are published by BOS during the term of the Licensing.
 
-5.  Verbundene Unternehmen im Sinne des § 15 Aktiengesetz sind
-    berechtigt, TopLogic ebenso zu nutzen wie der Lizenznehmer. Der
-    Lizenznehmer steht dafür ein, dass die verbundenen Unternehmen
-    Lizenzgebühren in dem nach diesem Vertrag geschuldeten Umfang
-    zahlen und die Lizenzbedingungen ebenso erfüllen wie der
-    Lizenznehmer.
-6.  TopLogic beinhaltet Komponenten, die als Open Source Software
-    lizenziert sind. Open Source Software ist entsprechend der Open
-    Source Definition der Open Source Initiative
-    (<https://opensource.org/osd>) Software, die von den jeweiligen
-    Rechteinhabern an jedermann zur umfassenden lizenzgebührenfreien
-    Nutzung lizenziert wird und dessen Sourcecode verfügbar ist.
-    Eine Auflistung der davon betroffenen Software-Komponenten und
-    der jeweils anwendbaren Lizenzbedingungen sowie weitergehende
-    Informationen (z.B. zum Erhalt von Quellcode) werden dem
-    Lizenznehmer zusammen mit TopLogic übergeben. Die Open Source
-    Lizenzen gehen diesen Lizenzbedingungen für die jeweiligen Open
-    Source-Komponenten vor. Solange der Lizenznehmer die Open
-    Source-Komponenten ausschließlich intern benutzt, hat der
-    Lizenznehmer keine Lizenzpflichten gegenüber den Rechteinhabern
-    dieser Open Source-Komponenten. Der Lizenznehmer kann an der
-    verwendeten Open Source Software von den jeweiligen
-    Rechteinhabern jedoch zusätzlich ein einfaches Nutzungsrecht
-    unter den Bedingungen erwerben, die die dafür jeweils
-    anwendbaren Open Source Lizenzen vorsehen. Jede Nutzung von Open
-    Source Software auf der Basis dieser Open Source Lizenzen und
-    außerhalb der in TopLogic vorgesehenen Verwendung geschieht auf
-    eigenes Risiko des Lizenznehmers und ist nicht Gegenstand des
-    Vertragsverhältnisses mit BOS. Die Gewährleistung für Mängel der
-    Software, die auf einer Bearbeitung von Open Source Software
-    beruhen, ist ausgeschlossen. Der Lizenznehmer trägt die
-    Beweislast, dass ein Mangel von TopLogic auch ohne die
-    Bearbeitung der enthaltenen Open Source Software aufgetreten
-    wäre.
+## 7. Infringements of Intellectual Property Rights
+1. If a third party asserts claims against the Licensee based on the infringement of intellectual property rights by the Software and if the right to use the Software is affected or prohibited as a result, BOS shall have the right, at its discretion, either to modify the respective contractual services in such a way that they fall outside the scope of protection but nevertheless comply with the contractual provisions or to obtain the right to use the services in accordance with the contract without restriction or at no additional cost to the Licensee.
+2. The Licensee shall immediately  notify BOS in writing of any claims by third parties due to an infringement of intellectual property rights, shall not acknowledge the alleged infringement, and shall conduct any disputes, including any out-of-court settlements, only in agreement with BOS.
+  
+   If Licensee discontinues the use of the Software in order to mitigate damages or for other reasons, Licensee shall inform the third party that the discontinuation of use does not constitute an acknowledgement of the infringement of the intellectual property rights.
+3. Insofar as the Licensee itself is responsible for the infringement of intellectual property right, claims against BOS in accordance with the above paragraphs shall be excluded. The same shall apply insofar as the infringement of intellectual property rights is caused by an unforeseeable application or by the fact that the software is modified by the Licensee or used together with software not supplied by BOS.
+4. Further claims of the Licensee due to an infringement of third party intellectual property rights are excluded. However, Licensee's right to withdraw from the contract shall remain unaffected.
 
-## 3. Lizenzkeys
+## 8. Final provisions
+1. This contract contains all agreements between the contracting parties, insofar as no reference is made to supplementary agreements; there are no ancillary agreements.
+2. All changes, amendments and terminations of this contract must be in writing, as well as the cancellation of this written form requirement.
+3. Should individual provisions of this contract be or become invalid, this shall not affect the validity of the remaining provisions. The ineffective provision shall be replaced by a substitute provision that comes as close as possible to the purpose intended by the ineffective provision; the same shall apply in the event of a loophole.
+4. The place of jurisdiction for all disputes arising from or in connection with this contract is Frankfurt am Main.
+5. Applicable law is the law of the Federal Republic of Germany with the exception of the UN Convention on Contracts for the International Sale of Goods and the conflict of laws provisions.
 
-1.  BOS verwendet zur Überprüfung der ordnungsgemäßen Lizenzierung
-    im "Production Mode" technische Programmschutzmechanismen in
-    Form von Lizenzkeys. Die Entfernung des
-    Programmschutzmechanismus ist untersagt. Die Überprüfung eines
-    Lizenzkeys erfolgt durch Übermittlung der IP-Adresse des
-    Lizenznehmers.
-2.  Der Lizenznehmer erhält von BOS einen Lizenzkey für die Nutzung
-    im "Production Mode", wenn der Lizenznehmer die entsprechende
-    Lizenzgebühr an BOS gezahlt hat. Sofern der Lizenznehmer die
-    Nutzung der Software für mehrere Instanzen ("Stages") lizenziert
-    hat, erhält er die dafür erforderliche Zahl an Lizenzkeys.
-3.  Nach Ablauf der vereinbarten Dauer des Nutzungsrechts für den
-    "Production Mode" kann die Software nicht gestartet werden, ohne
-    dass ein neuer Lizenzkey eingegeben wird.
 
-## 4. Überlassung der Software
-
-Die Software wird dem Lizenznehmer elektronisch übermittelt, entweder
-durch eine Downloadmöglichkeit oder durch Upload auf einen Server des
-Lizenznehmers.
-
-## 5. Lizenzgebühren
-
-Der Lizenznehmer ist verpflichtet, die vertraglich vereinbarte
-Lizenzgebühr an BOS zu zahlen. Die Lizenzgebühr berechnet sich anhand
-der Anzahl der Installationen ("Stages") für den "Production Mode" und
-wird in dem Angebot von BOS ausgewiesen.
-
-## 6. Updates und Upgrades
-
-Der Lizenznehmer ist berechtigt, Updates und Upgrades von TopLogic in
-dem in Ziffer 2 beschriebenen Umfang zu nutzen, sofern diese Updates
-oder Upgrades während der Laufzeit der Lizenzierung von BOS
-veröffentlicht werden.
-    
-## 7. Schutzrechtverletzungen
-
-1.  Macht ein Dritter Ansprüche gegen den Lizenznehmer wegen der
-    Verletzung von Schutzrechten durch die Software geltend und wird
-    die Nutzung der Software hierdurch beeinträchtigt oder
-    untersagt, so hat BOS das Recht, nach ihrer Wahl entweder die
-    jeweiligen vertraglichen Leistungen so abzuändern, dass sie aus
-    dem Schutzbereich herausfallen, gleichwohl aber den
-    vertraglichen Bestimmungen entsprechen oder die Befugnis zu
-    erwirken, dass sie uneingeschränkt oder ohne zusätzliche Kosten
-    für den Lizenznehmer vertragsgemäß genutzt werden können.
-2.  Der Lizenznehmer ist verpflichtet, BOS von etwaigen Ansprüchen
-    Dritter wegen einer Schutzrechtsverletzung unverzüglich
-    schriftlich zu verständigen, die behauptete Verletzung nicht
-    anzuerkennen und jegliche Auseinandersetzung, einschließlich
-    etwaiger außergerichtlicher Regelungen, nur im Einvernehmen mit
-    BOS zu führen.
-
-    Stellt der Lizenznehmer die Nutzung der Software aus Schadensminderungs-
-    oder sonstigen Gründen ein, ist er verpflichtet, den Dritten darauf
-    hinzuweisen, dass mit der Nutzungseinstellung ein Anerkenntnis der
-    Schutzrechtsverletzung nicht verbunden ist.
-
-3.  Soweit der Lizenznehmer die Schutzrechtsverletzung selbst zu
-    vertreten hat, sind Ansprüche gegen BOS nach den vorstehenden
-    Absätzen ausgeschlossen. Gleiches gilt, soweit die
-    Schutzrechtsverletzung durch eine nicht vorhersehbare Anwendung
-    oder dadurch verursacht wird, dass die Software vom Lizenznehmer
-    verändert oder zusammen mit nicht von BOS gelieferter Software
-    eingesetzt wird.
-4.  Weitergehende Ansprüche des Lizenznehmers wegen einer Verletzung
-    von Schutzrechten Dritter sind ausgeschlossen. Das Recht des
-    Lizenznehmers zum Rücktritt vom Vertrag bleibt jedoch unberührt.
-
-## 8. Schlussbestimmungen
-
-1.  Dieser Vertrag enthält sämtliche Vereinbarungen zwischen den
-    Vertragsparteien, soweit nicht auf ergänzende Vereinbarungen
-    hingewiesen wird; Nebenabreden bestehen nicht.
-2.  Alle Änderungen, Ergänzungen und Kündigungen dieses Vertrages
-    bedürfen der Schriftform, ebenso die Aufhebung dieses
-    Schriftformerfordernisses.
-3.  Sollten einzelne Bestimmungen dieses Vertrages unwirksam sein
-    oder werden, so wird die Wirksamkeit der übrigen Bestimmungen
-    hierdurch nicht berührt. An die Stelle der unwirksamen
-    Bestimmung tritt eine Ersatzregelung, die dem mit der
-    unwirksamen Bestimmung angestrebten Zweck möglichst nahe kommt;
-    das gleiche gilt im Falle einer Lücke.
-4.  Gerichtsstand für alle Streitigkeiten aus oder in Verbindung mit
-    diesem Vertrag ist  
-    DE Frankfurt am Main.
-5.  Anwendbares Recht ist das Recht der Bundesrepublik Deutschland
-    mit der Ausnahme des UN-Kaufrechts und der Regelungen des
-    Kollisionsrechts.
-
-Stand, August 2023
+Version 1.0, September 2023
