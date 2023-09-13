@@ -8,7 +8,7 @@ TopLogic is dual-licensed. You can use TopLogic either under the terms of the [G
 
 ## Contributing
 
-Your contributions to TopLogic open-source project are wellcome. You may contribute bug reports, feature requests, fixes, enhancements to existing functionality, new components and models. To do so, we require that you sign a Contributor License Agreement that makes sure that you are the owner of contribution, are allowed to contribute, and to provide Business Operation Systems GmbH a licens to integrate your contribution to the proprietary version of TopLogic as well.
+Your contributions to the TopLogic open-source project are welcome. You may contribute bug reports, feature requests, fixes, enhancements to existing functionality, new components and models. To do so, we require that you sign a Contributor License Agreement that makes sure that you are the owner of contribution, are allowed to contribute, and to provide Business Operation Systems GmbH a licens to integrate your contribution to the proprietary version of TopLogic as well.
 
 For details see the [TopLogic Contributor License Agreement](/CLA.md).
 
