@@ -17,8 +17,8 @@ For details see the [TopLogic Contributor License Agreement](/CLA.md).
 [Business Operation Systems GmbH](https://top-logic.com) provides professional services for TopLogic open source. TopLogic engineers are experienced over several years in industrial TopLogic projects. To make your TopLogic project a success, we provide various types of services:
 
  * TopLogic Labs - Not sure if TopLogic is the right solution for your problem? Let's discuss your project. In just a few days, our experts will show you amazing solutions for almost all your digitisation challenges.
- * TopLogic Coaching - We coach development teams in the use of TopLogic, review modelling results and train them in the use of TopLogic.
- * Component development - Happy with TopLogic but missing a component? Due to TopLogic's extensibility, we are happy to develop all kinds of extensions and integrations - either just for you or in a joint community effort.
+ * TopLogic Coaching - Give your TopLogic project a head start. We train your development teams in the use of TopLogic, review modelling results and provide you with tips and tricks to help you get the most out of of the engine.
+ * Component development - Happy with TopLogic but missing a component? Due to TopLogic's extensibility, we are happy to develop all kinds of extensions and integrations with ease - either just for you or in a joint community effort.
  * TopLogic Application Development - Not enough free capacity to start your own TopLogic development? No problem, we are happy to solve all kinds of digitisation challenges at an amazing speed. We are happy to discuss your needs.
 
 Please feel free to contact us at https://top-logic.com/kontakt/
