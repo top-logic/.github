@@ -22,3 +22,29 @@ For details, see the [TopLogic Contributor License Agreement](/CLA.md).
  * TopLogic Application Development - Not enough free capacity to start your own TopLogic development? No problem, we are happy to solve all kinds of digitalization challenges at an amazing speed. We are happy to discuss your needs.
 
 Please feel free to [contact us](https://opensource.top-logic.com/#kontakt).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
