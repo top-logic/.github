@@ -21,4 +21,4 @@ For details, see the [TopLogic Contributor License Agreement](/CLA.md).
  * Component development - Happy with TopLogic but missing a component? Due to TopLogic's extensibility, we are happy to develop all kinds of extensions and integrations with ease, either just for you or in a joint community effort.
  * TopLogic Application Development - Not enough free capacity to start your own TopLogic development? No problem, we are happy to solve all kinds of digitalization challenges at an amazing speed. We are happy to discuss your needs.
 
-Please feel free to [contact](https://top-logic.com/kontakt/) us.
+Please feel free to [contact us](https://opensource.top-logic.com/#kontakt).
